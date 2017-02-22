@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Book Connotation Analysis</title>
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <h2>Upload a .txt File!</h2>
+			  <h4><a href="http://www.gutenberg.org/ebooks/search/%3Fsort_order%3Ddownloads">Public domain books</a></h4>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar"></div>
+            </div>
+            <button class="btn btn-lg upload-btn" type="button">Upload File</button>
+			<button class="btn btn-lg" type="button"><a href="./graph">Check Graph</a></button>
+          </div>
+			<h5>If you upload a whole book, give it a minuite to load...</h5> <br><p align = "left">Any uploaded text is run through this <a href = "http://www3.cs.stonybrook.edu/~ychoi/connotation/">Word Connotation Lexicon.</a> word by word.
+		  Each word is assigned positive(1), negitive(-1), or neutral(0) value.  The generated graph is an average of these values.</p>  
+        </div>
+		  
+      </div>
+    </div>
+  </div>
+
+  <input id="upload-input" type="file" name="uploads[]" multiple="multiple"></br>
+
+  <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="javascripts/upload.js"></script>
+</body>
+</html>

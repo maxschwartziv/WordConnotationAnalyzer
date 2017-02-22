@@ -1,0 +1,502 @@
+20:37:31.808 INFO main Main:145 Starting PCGen v6.06.01
+20:37:31.992 INFO main LanguageBundle:131 Initialising language bundle with locale en_US.
+20:37:32.232 SEVERE main LookAndFeelManager:287 Look and Feel Java cannot be found
+20:38:49.233 INFO Thread-3 SourceFileLoader:518 Loading game Pathfinder_RPG and sources [Pathfinder RPG Core Supplements].
+20:40:00.421 INFO AWT-EventQueue-0 CharacterManager:214 Loaded character Blitzen Dash - /home/max/Desktop/things to save/dnd/character sheets/Blitzen Dash2.pcg
+20:48:26.94 SEVERE AWT-EventQueue-0 SpellSupportFacadeImpl:615 delBookButton:failed 
+20:49:53.894 INFO AWT-EventQueue-0 CharacterFacadeImpl:816 Blitzen Dash: Adding level 2 in class Magus
+20:50:52.91 INFO AWT-EventQueue-0 CharacterFacadeImpl:908 Blitzen Dash: Removing level 2 in class Magus
+20:56:46.179 INFO AWT-EventQueue-0 CharacterFacadeImpl:816 Blitzen Dash: Adding level 2 in class Magus
+21:06:05.590 INFO AWT-EventQueue-0 CharacterManager:427 Saving character Blitzen Dash - /home/max/Desktop/things to save/dnd/character sheets/Blitzen Dash2.pcg
+21:07:14.693 INFO AWT-EventQueue-0 CharacterManager:427 Saving character Blitzen Dash - /home/max/Desktop/things to save/dnd/character sheets/Blitzen Dash2.pcg
+21:08:09.203 INFO AWT-EventQueue-0 CharacterManager:427 Saving character Blitzen Dash - /home/max/Desktop/things to save/dnd/character sheets/Blitzen Dash2.pcg
+21:08:10.480 INFO AWT-EventQueue-0 CharacterManager:427 Saving character Blitzen Dash - /home/max/Desktop/things to save/dnd/character sheets/Blitzen Dash2.pcg
+21:08:52.442 SEVERE SwingWorker-pool-1-thread-2 PreTypeTester:106 PRETYPE has been deprecated for non-Equipment Prerequisites.
+  Please use PRERACE as an alternative
+21:08:52.443 SEVERE SwingWorker-pool-1-thread-2 PreTypeTester:116   PRETYPE value was: EQMOD=BROKEA
+
+21:08:56.967 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/fantasy_master_common_blocks.xslt; Line#: 265; Column#: 16; Number of weapons on first page = 3
+21:08:56.969 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/fantasy_master_common_blocks.xslt; Line#: 266; Column#: 16; Number of skills on first page = 53
+21:08:57.73 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 550; Column#: 25; Test
+21:08:57.262 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 615; Column#: 25; Test
+21:08:57.277 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 654; Column#: 25; Test
+21:08:57.314 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 738; Column#: 25; Test
+21:08:57.341 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 779; Column#: 25; Test
+21:08:57.355 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 852; Column#: 25; Test END
+21:08:57.392 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 55; Column#: 25; Test
+21:08:57.403 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:08:57.433 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:08:57.435 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:08:57.462 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:08:57.463 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:08:57.484 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:08:57.485 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:08:57.511 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:08:57.513 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:08:57.531 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:08:57.533 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:08:57.552 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:08:57.555 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 56; Column#: 25; Test
+21:08:57.559 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 80; Column#: 25; Test
+21:08:57.578 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 377; Column#: 25; Test
+21:08:57.625 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 565; Column#: 25; Test
+21:08:57.637 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 720; Column#: 25; Test
+21:08:57.638 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 724; Column#: 25; Test
+21:08:57.667 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 852; Column#: 25; Test
+21:08:57.674 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 988; Column#: 25; Test
+21:08:57.675 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 992; Column#: 25; Test
+21:08:57.691 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 109; Column#: 25; Test
+21:08:57.692 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 113; Column#: 25; Test
+21:08:57.695 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 145; Column#: 25; Test
+21:08:57.701 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.707 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.713 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.718 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.724 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.729 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.734 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.740 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.745 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.750 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.755 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.760 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.766 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.777 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.786 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.791 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.795 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.800 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.805 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.809 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.813 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.818 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.822 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:08:57.827 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 44; Column#: 25; Test
+21:08:57.832 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 44; Column#: 25; Test
+21:08:57.835 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 316; Column#: 25; Test
+21:08:57.839 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_class_features.xslt; Line#: 837; Column#: 25; Test
+21:08:57.841 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_class_features.xslt; Line#: 848; Column#: 25; Test
+21:08:57.843 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_class_features.xslt; Line#: 869; Column#: 25; Test END
+21:08:57.846 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1082; Column#: 25; Test
+21:08:57.848 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1128; Column#: 25; Test
+21:08:57.851 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1161; Column#: 25; Test
+21:08:57.859 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1195; Column#: 25; Test END
+21:08:57.861 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1161; Column#: 25; Test
+21:08:57.869 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1195; Column#: 25; Test END
+21:08:57.870 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1161; Column#: 25; Test
+21:08:57.877 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1195; Column#: 25; Test END
+21:08:57.880 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 30; Column#: 25; Test
+21:08:57.882 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 105; Column#: 25; Test
+21:08:57.886 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 131; Column#: 25; Test
+21:08:57.900 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 80; Column#: 25; Test
+21:08:57.901 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 131; Column#: 25; Test
+21:08:57.913 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 87; Column#: 25; Test
+21:08:57.914 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 131; Column#: 25; Test
+21:08:57.916 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:08:57.917 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:08:57.928 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 252; Column#: 25; Test END
+21:08:57.931 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 203; Column#: 25; Test
+21:08:57.934 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:08:57.934 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:08:57.937 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:08:57.937 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:08:57.940 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:08:57.941 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:08:57.943 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:08:57.944 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:08:57.948 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 223; Column#: 25; Test
+21:08:57.950 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 228; Column#: 25; Test
+21:08:57.961 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 368; Column#: 19; Test
+21:08:57.965 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 401; Column#: 20; Test
+21:08:57.968 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 436; Column#: 25; Test
+21:08:57.972 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 952; Column#: 25; Test
+21:08:57.977 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1005; Column#: 25; Test
+21:08:57.983 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1384; Column#: 25; Test
+21:08:57.986 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1415; Column#: 18; 11
+21:08:57.987 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1420; Column#: 25; Test
+21:08:57.988 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1420; Column#: 60; 11
+21:08:58.2 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1436; Column#: 25; Test
+21:08:58.16 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1458; Column#: 25; Test
+21:08:58.30 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1539; Column#: 25; Test
+21:08:58.43 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1554; Column#: 25; Test
+21:08:58.58 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1576; Column#: 25; Test
+21:08:58.72 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1088; Column#: 25; Test
+21:08:58.78 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_protection.xslt; Line#: 35; Column#: 25; Test
+21:08:58.82 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_protection.xslt; Line#: 79; Column#: 25; Test
+21:08:58.86 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_protection.xslt; Line#: 113; Column#: 25; Test END
+21:08:58.539 SEVERE SwingWorker-pool-1-thread-2 Jdk14Logger:99 forcing opt to min in LengthRange
+21:08:58.544 SEVERE SwingWorker-pool-1-thread-2 Jdk14Logger:99 forcing opt to min in LengthRange
+21:08:58.549 SEVERE SwingWorker-pool-1-thread-2 Jdk14Logger:99 forcing opt to min in LengthRange
+21:08:58.556 SEVERE SwingWorker-pool-1-thread-2 Jdk14Logger:99 forcing opt to min in LengthRange
+21:08:58.560 SEVERE SwingWorker-pool-1-thread-2 Jdk14Logger:99 forcing opt to min in LengthRange
+21:09:01.262 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 36; Column#: 25; Test
+21:09:01.278 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 45; Column#: 25; Test
+21:09:01.287 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 68; Column#: 25; Test
+21:09:01.302 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:09:01.308 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:09:01.311 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:09:01.316 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:09:01.320 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:09:01.326 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:09:01.330 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:09:01.333 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:09:01.338 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 256; Column#: 25; Test
+21:09:01.340 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 265; Column#: 25; Test
+21:09:01.351 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 280; Column#: 25; Test
+21:09:01.359 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 316; Column#: 25; Test
+21:09:01.364 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 327; Column#: 25; Test
+21:09:01.367 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 395; Column#: 25; Test
+21:09:01.371 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 415; Column#: 25; Test
+21:09:01.375 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 447; Column#: 25; Test
+21:09:01.376 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 458; Column#: 25; Test END
+21:09:01.385 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_misc.xslt; Line#: 404; Column#: 25; Test
+21:09:01.388 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_misc.xslt; Line#: 415; Column#: 25; Test END
+21:09:01.592 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 403; Column#: 25; Test
+21:09:01.593 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 444; Column#: 25; Test
+21:09:01.595 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 421; Column#: 25; Test
+21:09:01.597 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.600 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.603 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 403; Column#: 25; Test
+21:09:01.605 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 421; Column#: 25; Test
+21:09:01.606 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 134; Column#: 25; Test
+21:09:01.607 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 138; Column#: 25; Test
+21:09:01.608 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 190; Column#: 25; Test
+21:09:01.615 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 255; Column#: 25; Test
+21:09:01.622 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 300; Column#: 25; Test
+21:09:01.624 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 144; Column#: 25; Test
+21:09:01.625 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 331; Column#: 25; Test
+21:09:01.627 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 444; Column#: 25; Test
+21:09:01.630 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.632 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.634 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.637 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.639 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.641 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.644 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.646 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.648 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.651 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.653 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.656 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.658 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.660 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.663 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.665 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.668 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.670 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.672 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.675 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.677 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.680 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.683 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.685 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.687 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.690 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.692 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.695 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.698 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.701 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.703 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 357; Column#: 25; Test
+21:09:01.704 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 331; Column#: 25; Test
+21:09:01.705 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 444; Column#: 25; Test
+21:09:01.708 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.710 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.712 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.714 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.716 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.719 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.721 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.723 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.725 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.728 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.730 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:09:01.733 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:09:01.735 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 357; Column#: 25; Test
+21:09:01.737 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 828; Column#: 43; Test
+21:09:01.738 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:09:01.740 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 925; Column#: 44; Test Spells Memorized Header
+21:09:01.742 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 948; Column#: 42; Test "Spells Memorized Section"
+21:09:01.743 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 958; Column#: 44; Test Levels 4-
+21:09:01.744 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 986; Column#: 39; Test Spells Memorized Level Grant
+21:09:01.745 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:09:01.747 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:09:01.748 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:09:01.750 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:09:01.752 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 986; Column#: 39; Test Spells Memorized Level Grant
+21:09:01.753 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:09:01.755 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:09:01.757 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:09:01.759 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 962; Column#: 45; Test Levels 5+
+21:09:01.949 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 83; Column#: 25; Test
+21:09:01.950 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 106; Column#: 25; Test
+21:09:01.951 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.952 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 119; Column#: 25; Test
+21:09:01.953 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.954 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.955 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.956 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.957 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.959 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.960 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.970 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.974 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.975 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.979 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.980 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.981 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.982 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.985 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.989 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.990 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.991 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:09:01.993 WARNING SwingWorker-pool-1-thread-2 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:43.190 SEVERE SwingWorker-pool-1-thread-4 PreTypeTester:106 PRETYPE has been deprecated for non-Equipment Prerequisites.
+  Please use PRERACE as an alternative
+21:14:43.205 SEVERE SwingWorker-pool-1-thread-4 PreTypeTester:116   PRETYPE value was: EQMOD=BROKEA
+
+21:14:45.764 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/fantasy_master_common_blocks.xslt; Line#: 265; Column#: 16; Number of weapons on first page = 3
+21:14:45.765 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/fantasy_master_common_blocks.xslt; Line#: 266; Column#: 16; Number of skills on first page = 53
+21:14:45.786 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 550; Column#: 25; Test
+21:14:45.826 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 615; Column#: 25; Test
+21:14:45.833 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 654; Column#: 25; Test
+21:14:45.841 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 738; Column#: 25; Test
+21:14:45.849 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 779; Column#: 25; Test
+21:14:45.859 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_pc_header_row.xslt; Line#: 852; Column#: 25; Test END
+21:14:45.869 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 55; Column#: 25; Test
+21:14:45.871 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:14:45.876 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:14:45.878 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:14:45.884 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:14:45.885 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:14:45.892 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:14:45.892 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:14:45.898 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:14:45.899 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:14:45.906 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:14:45.906 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 86; Column#: 25; Test
+21:14:45.912 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_stat_block.xslt; Line#: 158; Column#: 25; Test
+21:14:45.914 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 56; Column#: 25; Test
+21:14:45.916 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 80; Column#: 25; Test
+21:14:45.924 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 377; Column#: 25; Test
+21:14:45.935 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 565; Column#: 25; Test
+21:14:45.941 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 720; Column#: 25; Test
+21:14:45.941 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 724; Column#: 25; Test
+21:14:45.950 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 852; Column#: 25; Test
+21:14:45.954 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 988; Column#: 25; Test
+21:14:45.955 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 992; Column#: 25; Test
+21:14:45.959 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 109; Column#: 25; Test
+21:14:45.961 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 113; Column#: 25; Test
+21:14:45.962 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 145; Column#: 25; Test
+21:14:45.966 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.969 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.972 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.975 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.978 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.981 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.985 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.988 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.991 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.993 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:45.996 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.0 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.3 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.6 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.9 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.13 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.16 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.19 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.22 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.24 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.27 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.30 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.33 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 198; Column#: 25; Test
+21:14:46.36 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 44; Column#: 25; Test
+21:14:46.38 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 44; Column#: 25; Test
+21:14:46.40 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_skills.xslt; Line#: 316; Column#: 25; Test
+21:14:46.42 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_class_features.xslt; Line#: 837; Column#: 25; Test
+21:14:46.43 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_class_features.xslt; Line#: 848; Column#: 25; Test
+21:14:46.45 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_class_features.xslt; Line#: 869; Column#: 25; Test END
+21:14:46.46 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1082; Column#: 25; Test
+21:14:46.48 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1128; Column#: 25; Test
+21:14:46.50 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1161; Column#: 25; Test
+21:14:46.56 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1195; Column#: 25; Test END
+21:14:46.57 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1161; Column#: 25; Test
+21:14:46.63 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1195; Column#: 25; Test END
+21:14:46.63 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1161; Column#: 25; Test
+21:14:46.69 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_hp_defense.xslt; Line#: 1195; Column#: 25; Test END
+21:14:46.71 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 30; Column#: 25; Test
+21:14:46.72 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 105; Column#: 25; Test
+21:14:46.74 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 131; Column#: 25; Test
+21:14:46.83 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 80; Column#: 25; Test
+21:14:46.84 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 131; Column#: 25; Test
+21:14:46.92 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 87; Column#: 25; Test
+21:14:46.93 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 131; Column#: 25; Test
+21:14:46.95 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:14:46.95 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:14:46.107 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 252; Column#: 25; Test END
+21:14:46.109 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 203; Column#: 25; Test
+21:14:46.111 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:14:46.111 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:14:46.113 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:14:46.114 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:14:46.115 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:14:46.116 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:14:46.118 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 290; Column#: 25; Test END
+21:14:46.118 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 292; Column#: 25; Test END
+21:14:46.122 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 223; Column#: 25; Test
+21:14:46.123 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_attack.xslt; Line#: 228; Column#: 25; Test
+21:14:46.131 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 368; Column#: 19; Test
+21:14:46.134 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 401; Column#: 20; Test
+21:14:46.137 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 436; Column#: 25; Test
+21:14:46.139 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 952; Column#: 25; Test
+21:14:46.143 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1005; Column#: 25; Test
+21:14:46.147 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1384; Column#: 25; Test
+21:14:46.150 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1415; Column#: 18; 11
+21:14:46.151 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1420; Column#: 25; Test
+21:14:46.151 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1420; Column#: 60; 11
+21:14:46.156 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1436; Column#: 25; Test
+21:14:46.160 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1458; Column#: 25; Test
+21:14:46.165 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1539; Column#: 25; Test
+21:14:46.169 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1554; Column#: 25; Test
+21:14:46.173 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1576; Column#: 25; Test
+21:14:46.177 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1088; Column#: 25; Test
+21:14:46.178 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 952; Column#: 25; Test
+21:14:46.182 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1005; Column#: 25; Test
+21:14:46.187 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1267; Column#: 25; Test
+21:14:46.191 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1294; Column#: 25; Test
+21:14:46.195 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1310; Column#: 25; Test
+21:14:46.199 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1325; Column#: 25; Test
+21:14:46.204 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_weapons.xslt; Line#: 1088; Column#: 25; Test
+21:14:46.206 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_protection.xslt; Line#: 35; Column#: 25; Test
+21:14:46.208 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_protection.xslt; Line#: 79; Column#: 25; Test
+21:14:46.210 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_protection.xslt; Line#: 113; Column#: 25; Test END
+21:14:46.276 SEVERE SwingWorker-pool-1-thread-4 Jdk14Logger:99 forcing opt to min in LengthRange
+21:14:46.279 SEVERE SwingWorker-pool-1-thread-4 Jdk14Logger:99 forcing opt to min in LengthRange
+21:14:46.281 SEVERE SwingWorker-pool-1-thread-4 Jdk14Logger:99 forcing opt to min in LengthRange
+21:14:46.285 SEVERE SwingWorker-pool-1-thread-4 Jdk14Logger:99 forcing opt to min in LengthRange
+21:14:46.287 SEVERE SwingWorker-pool-1-thread-4 Jdk14Logger:99 forcing opt to min in LengthRange
+21:14:46.455 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 36; Column#: 25; Test
+21:14:46.461 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 45; Column#: 25; Test
+21:14:46.463 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 68; Column#: 25; Test
+21:14:46.469 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:14:46.472 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:14:46.474 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:14:46.476 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:14:46.478 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:14:46.481 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:14:46.484 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:14:46.488 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:14:46.494 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 103; Column#: 25; Test
+21:14:46.497 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 188; Column#: 25; Test
+21:14:46.502 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 256; Column#: 25; Test
+21:14:46.505 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 265; Column#: 25; Test
+21:14:46.512 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 280; Column#: 25; Test
+21:14:46.520 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 316; Column#: 25; Test
+21:14:46.522 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 327; Column#: 25; Test
+21:14:46.525 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 395; Column#: 25; Test
+21:14:46.526 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 415; Column#: 25; Test
+21:14:46.530 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 447; Column#: 25; Test
+21:14:46.532 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_equipment.xslt; Line#: 458; Column#: 25; Test END
+21:14:46.542 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_misc.xslt; Line#: 404; Column#: 25; Test
+21:14:46.544 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_misc.xslt; Line#: 415; Column#: 25; Test END
+21:14:46.718 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 403; Column#: 25; Test
+21:14:46.721 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 444; Column#: 25; Test
+21:14:46.723 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 421; Column#: 25; Test
+21:14:46.726 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.729 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.732 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 403; Column#: 25; Test
+21:14:46.734 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 421; Column#: 25; Test
+21:14:46.736 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 134; Column#: 25; Test
+21:14:46.737 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 138; Column#: 25; Test
+21:14:46.738 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 190; Column#: 25; Test
+21:14:46.756 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 255; Column#: 25; Test
+21:14:46.774 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 300; Column#: 25; Test
+21:14:46.780 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 144; Column#: 25; Test
+21:14:46.781 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 331; Column#: 25; Test
+21:14:46.783 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 444; Column#: 25; Test
+21:14:46.787 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.790 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.793 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.796 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.799 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.802 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.805 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.808 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.811 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.814 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.817 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.820 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.823 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.826 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.829 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.832 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.835 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.838 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.841 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.844 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.847 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.851 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.855 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.858 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.861 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.865 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.867 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.871 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.873 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.877 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.880 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 357; Column#: 25; Test
+21:14:46.881 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 331; Column#: 25; Test
+21:14:46.883 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 444; Column#: 25; Test
+21:14:46.887 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.891 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.894 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.896 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.900 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.903 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.906 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.910 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.913 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.916 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.918 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 492; Column#: 25; Test
+21:14:46.922 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 591; Column#: 25; Test
+21:14:46.925 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 357; Column#: 25; Test
+21:14:46.927 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 828; Column#: 43; Test
+21:14:46.930 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:14:46.934 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 925; Column#: 44; Test Spells Memorized Header
+21:14:46.936 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 948; Column#: 42; Test "Spells Memorized Section"
+21:14:46.938 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 958; Column#: 44; Test Levels 4-
+21:14:46.939 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 986; Column#: 39; Test Spells Memorized Level Grant
+21:14:46.941 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:14:46.944 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:14:46.947 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:14:46.951 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:14:46.955 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 986; Column#: 39; Test Spells Memorized Level Grant
+21:14:46.958 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:14:46.961 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:14:46.964 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 1010; Column#: 35; Test END - Spells Memorized
+21:14:46.968 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_spells_condensed.xslt; Line#: 962; Column#: 45; Test Levels 5+
+21:14:47.56 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 83; Column#: 25; Test
+21:14:47.58 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 106; Column#: 25; Test
+21:14:47.60 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.62 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 119; Column#: 25; Test
+21:14:47.64 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.66 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.68 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.70 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.72 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.74 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.77 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.79 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.81 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.83 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.85 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.87 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.89 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.91 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.93 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.95 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.97 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.100 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:14:47.102 WARNING SwingWorker-pool-1-thread-4 FopTask:257 file:/home/max/Desktop/pcgen/outputsheets/d20/fantasy/pdf/common_sheet/block_bio_condensed.xslt; Line#: 23; Column#: 25; Test
+21:15:39.203 INFO AWT-EventQueue-0 CharacterManager:427 Saving character Blitzen Dash - /home/max/Desktop/things to save/dnd/character sheets/Blitzen Dash2.pcg
+21:15:39.381 INFO AWT-EventQueue-0 CharacterManager:496 Closed character Blitzen Dash - /home/max/Desktop/things to save/dnd/character sheets/Blitzen Dash2.pcg
