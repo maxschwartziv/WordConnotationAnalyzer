@@ -4,4 +4,4 @@ The generated graph is an average of these values.
 Run npm install
 Run index.js
 
-First ever node project, go easy.
+
